@@ -5,4 +5,4 @@
 Bienvenido a mi perfil de GitHub. 
 
 ## Sobre mí
-Soy un apasionado del desarrollo web con experiencia en JavaScript, PHP, Java y otros.
+Soy un apasionado del desarrollo web con experiencia en JavaScript, React, PHP, Laravel, Java y otros.
